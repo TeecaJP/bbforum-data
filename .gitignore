@@ -3,3 +3,4 @@
 *.toml
 *.ini
 *.json
+*.DS_Store
